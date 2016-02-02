@@ -3,7 +3,7 @@
 import sys
 
 # package import
-from __init__ import app
+from .application import app
 
 if __name__ == '__main__':
     # Ok it's hugly but it's run, some day we use a real configuration system

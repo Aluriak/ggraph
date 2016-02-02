@@ -5,6 +5,7 @@ web service for generate svg with graphviz information
 ## Requirement
 
 * python >= 3.4
+* graphviz
 
 ## Instalation
 
